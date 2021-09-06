@@ -1,0 +1,36 @@
+#demographic-data{
+    text-align: left;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #34a580;
+    font-family: Quicksand, Verdana, sans-serif;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+    border: solid;
+    border-radius: 20px;
+    border-color: #1c5744;
+}
+
+#survey{
+    font-family: "Bai Jamjuree", Verdana, sans-serif;
+    margin-bottom: 0px;
+}
+
+#feedback{
+    color: #fc5241;
+}
+
+.data-form{
+    padding: 20px;
+    font-weight:500;
+}
+
+#Nxtbutton{
+    align-items: center;
+    position: relative;
+    top: 2%;
+    text-align: center;
+}

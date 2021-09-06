@@ -1,0 +1,53 @@
+
+/*
+#demographic-data{
+    text-align: left;
+    font-size: 30px;
+    color:aliceblue;
+    font-family: Quicksand, Verdana, sans-serif;
+    margin-top: 30px;
+    padding-top:10px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    border-style: solid;
+} */
+
+#question1{
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 80%;
+    color: #1c5744;
+}
+
+#instruction1{
+    text-align: center;
+    font-size: 12px;
+    color: #1c5744;
+    border-style: solid;
+    border-radius: 20px;
+    letter-spacing: 80%;
+}
+
+.radio_border{
+    border: solid;
+}
+
+.screening-form1{
+    padding: 20px;
+    font-size: 12px;
+}
+
+#Nxtbutton1{
+    align-items: center;
+    position: relative;
+    top: 2%;
+    text-align: center;
+}
+
+.choice{
+    padding-bottom: 50px;
+}
+
+input[type=radio] {
+    transform:scale(1.25);
+}
